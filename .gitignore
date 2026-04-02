@@ -1,0 +1,8 @@
+.env
+output/
+receipts/
+receipts_test/
+credit-card-transaction-document/
+__pycache__/
+*.pyc
+.DS_Store

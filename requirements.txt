@@ -1,0 +1,7 @@
+langchain-google-genai
+pillow
+pillow-heif
+pdfplumber
+icalendar
+tqdm
+python-dotenv
